@@ -1,8 +1,4 @@
-//npm init
-//npm install --save puppeteer
 
-//npm i 
-//node index.js
 
 const puppeteer = require('puppeteer');
 const fs = require('fs');
@@ -41,3 +37,9 @@ const fs = require('fs');
   await browser.close();
 
 })();
+
+//npm init
+//npm install --save puppeteer
+
+//npm i 
+//node index.js
